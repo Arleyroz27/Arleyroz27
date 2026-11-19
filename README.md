@@ -111,11 +111,11 @@ Soy una persona curiosa, perseverante y comprometida con el aprendizaje continuo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arleyroz27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyroz27&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Lenguajes más usados" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Arleyrozo27&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Arleyroz27&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 
 </div>
 
@@ -136,12 +136,3 @@ Estoy abierto a oportunidades laborales, colaboraciones y nuevos proyectos que m
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0759B8,100:00A6FF&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>)
-- ✉️ **Correo:** tu-correo@ejemplo.com
-
-<div align="center">
-
-### ⚡ LEARN • CODE • BUILD • REPEAT ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0759B8,100:00A6FF&height=120&section=footer" alt="Footer" width="100%" />
-
-</div>
